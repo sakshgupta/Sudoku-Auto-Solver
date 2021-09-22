@@ -28,11 +28,11 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 
 - Get a sudoku from [sudoku.com](https://sudoku.com/) (Its important you use this website only, it might not work in other sites)
 -	Every time this Script is executed, it asks you to input the rows of the Sudoku(0 for gaps).
--	After entering the last row, you have to click on the first cell of the sudoku for the code to solve it.
+-	After entering the last row and just after pressing enter, you have to click on the first cell of the sudoku for the code to solve it.
 -	Voilà! the whole sudoku will be solved within seconds.
 
 ### Want to see an example?
-![example.mp4](https://vimeo.com/611594683)
+![example](https://s9.gifyu.com/images/example1bceacf66b9a6bf8.gif)
 
 ## 📐 Requirements:
 In order to run the Script, the require **Python, numpy & pyautogui** and you can install the requirements using:
