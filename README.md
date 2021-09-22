@@ -32,7 +32,7 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 -	Voilà! the whole sudoku will be solved within seconds.
 
 ### Want to see an example?
-![example](https://s9.gifyu.com/images/example1bceacf66b9a6bf8.gif)
+![example](https://gifyu.com/image/Pi4G)
 
 ## 📐 Requirements:
 In order to run the Script, the require **Python, numpy & pyautogui** and you can install the requirements using:
