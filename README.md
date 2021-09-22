@@ -31,6 +31,10 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 -	After entering the last row and just after pressing enter, you have to click on the first cell of the sudoku for the code to solve it.
 -	Voilà! the whole sudoku will be solved within seconds.
 
+<p align="center">
+	<img src="assets\example.png">
+</p>
+
 ## 📐 Requirements:
 In order to run the Script, the require **Python, numpy & pyautogui** and you can install the requirements using:
 ```
