@@ -24,16 +24,15 @@
 
 This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizing through the Backtracking Algorithm which is made using the Numpy Library in Python. Ever tried but stucked on Sudoku Puzzles given in a website. You can use this script not only to get its solution instantly but also to solve it for you using PyAutoGui Library in Python.
 
-## 😏 Working:
+## 🚴‍♂️ Working:
 
 - Get a sudoku from [sudoku.com](https://sudoku.com/) (Its important you use this website only, it might not work in other sites)
 -	Every time this Script is executed, it asks you to input the rows of the Sudoku(0 for gaps).
 -	After entering the last row, you have to click on the first cell of the sudoku for the code to solve it.
 -	Voilà! the whole sudoku will be solved within seconds.
 
-<p align="center">
-	<img src="assets\example.gif">
-</p>
+### Want to see an example?
+![example.mp4](https://vimeo.com/611594683)
 
 ## 📐 Requirements:
 In order to run the Script, the require **Python, numpy & pyautogui** and you can install the requirements using:
@@ -44,18 +43,18 @@ pip install -r requirements.txt
 ## 👨‍💻 Execution:
 -	Clone this repository using
 ```
-git clone https://github.com/dhhruv/Sudoku-Solver.git
+https://github.com/Saksham20BCE10288/Sudoku-Auto-Solver.git
 ```
 **OR**
 
 Zip Download the Repository and Extract it's contents.
 -	Now run the [Main.py](Main.py) file directly in your Terminal using
 ```
-python SudokuGUI.py
+python Main.py
 ```
 **OR**
 ```
-python3 SudokuGUI.py
+python3 Main.py
 ```
 
 <p align='center'><b>Made with ❤ by Saksham Gupta</b></p>
