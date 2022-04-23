@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets\thumbnail.png" width="256" height="256">
-  <h2 align="center" style="margin-top: -4px !important;">Why solve Sudoku by hand, when you can write script to solve them for ya ?! 🤯</h2>
+![Sudoku-Auto-Solver](https://socialify.git.ci/sakshgupta/Sudoku-Auto-Solver/image?description=1&forks=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fsakshgupta%2FSudoku-Auto-Solver%2Fmain%2Fassets%2Fthumbnail.png&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
+<h2 align="center" style="margin-top: -4px !important;">Why solve Sudoku by hand, when you can write script to solve them for ya ?! 🤯</h2>
   <p align="center">
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/python-v3.8-informational">
