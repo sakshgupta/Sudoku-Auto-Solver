@@ -49,13 +49,13 @@ https://github.com/Saksham20BCE10288/Sudoku-Auto-Solver.git
 **OR**
 
 Zip Download the Repository and Extract it's contents.
--	Now run the [Main.py](Main.py) file directly in your Terminal using
+-	Now run the [main.py](main.py) file directly in your Terminal using
 ```
-python Main.py
+python main.py
 ```
 **OR**
 ```
-python3 Main.py
+python3 main.py
 ```
 
 <p align='center'><b>Made with ❤ by Saksham Gupta</b></p>
